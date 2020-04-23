@@ -1,9 +1,9 @@
 class Ballerina < Formula
   desc "Programming Language for Network Distributed Applications"
   homepage "https://ballerina.io"
-  url "https://product-dist.ballerina.io/downloads/1.2.1/ballerina-1.2.1.zip"
+url "https://product-dist.ballerina.io/downloads/1.2.2.x/ballerina-1.2.2.x.zip"
 
-  sha256 "24758bb6ce19357bc734cbec5b8d42f710d93235762c5ce5840ee7ef37b8f8c9"
+sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 
   bottle :unneeded
